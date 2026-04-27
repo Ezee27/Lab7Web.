@@ -1,7 +1,7 @@
 # Laporan Praktikum Pemrograman Web 2
-**Nama:** [Isi Nama Kamu]  
-**NIM:** [Isi NIM Kamu]  
-**Kelas:** [Isi Kelas Kamu]  
+**Nama:** ZAENAL MAULANA RIZKI  
+**NIM:** 312410332
+**Kelas:** I241D
 **Universitas:** Universitas Pelita Bangsa, Bekasi
 
 Repository ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web 2, mencakup praktikum modul 1 hingga modul 4 menggunakan Framework **CodeIgniter 4**.
