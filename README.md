@@ -9,10 +9,10 @@ Repository ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web 2, mencak
 ---
 
 ## Daftar Isi
-1. [Modul 1: Pengenalan CI4 & Halaman Statis](#modul-1)
-2. [Modul 2: Database & CRUD (Create, Read, Update, Delete)](#modul-2)
-3. [Modul 3: View Layout & View Cell](#modul-3)
-4. [Modul 4: Sistem Login & Auth Filter](#modul-4)
+1. [Modul 1: PHP Framework (Codeigniter)
+2. [Modul 2: Framework Lanjutan (CRUD)
+3. [Modul 3: View Layout dan View Cell
+4. [Modul 4: Framework Lanjutan (Modul Login)
 
 ---
 
@@ -25,7 +25,8 @@ Pada modul ini, dilakukan instalasi CodeIgniter 4 dan pembuatan halaman statis (
 * Membuat Controller `Page.php` untuk mengatur navigasi.
 * Membuat View untuk header, footer, dan konten halaman.
 
-> **Screenshot:** > ![Home Page](URL_SCREENSHOT_HOME_KAMU)
+> **Screenshot:** > ![Home Page]
+> <img width="1094" height="745" alt="image" src="https://github.com/user-attachments/assets/425bda0e-a455-4d0e-8665-f81137247c92" />
 
 ---
 
@@ -39,7 +40,9 @@ Fokus pada pengolahan data artikel yang disimpan di database MySQL.
 * Membuat `ArtikelModel.php` dan Controller `Artikel.php`.
 * Implementasi fungsi Tambah, Ubah, dan Hapus artikel.
 
-> **Screenshot:** > ![Daftar Artikel](URL_SCREENSHOT_ARTIKEL_KAMU)
+> **Screenshot:** > ![Daftar Artikel]
+> <img width="983" height="368" alt="image" src="https://github.com/user-attachments/assets/4da8070e-1e1d-425a-87a7-bdd77f0864be" />
+
 
 ---
 
@@ -69,7 +72,9 @@ Menambahkan sistem autentikasi untuk membatasi akses halaman admin.
 2. Login menggunakan email dan password yang sesuai di database.
 3. Logout akan menghapus session dan kembali ke halaman login.
 
-> **Screenshot Login:** > ![Halaman Login](URL_SCREENSHOT_LOGIN_KAMU)
+> **Screenshot Login:** > ![Halaman Login]
+> <img width="1168" height="501" alt="image" src="https://github.com/user-attachments/assets/51758824-11ba-4b7e-b92b-dbfb369a37d7" />
+
 
 ---
 
